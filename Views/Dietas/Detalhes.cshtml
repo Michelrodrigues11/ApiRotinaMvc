@@ -1,0 +1,31 @@
+@model ApiRotinaMvc.Models.DietaViewModel
+@{
+    ViewBag.Title = "Detalhes da Dieta";
+}
+<h2>Detalhes da Dieta</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>@Html.DisplayNameFor(model => model.IdDieta)</dt>
+        <dd>@Html.DisplayFor(model => model.IdDieta)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Dia)</dt>
+        <dd>@Html.DisplayFor(model => model.Dia)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.DietaClass)</dt>
+        <dd>@Html.DisplayFor(model => model.DietaClass)</dd>  
+
+        <dt>@Html.DisplayNameFor(model => model.Refeicoes)</dt>
+        <dd>@Html.DisplayFor(model => model.Refeicoes)</dd>  
+
+        <dt>@Html.DisplayNameFor(model => model.Alimentos)</dt>
+        <dd>@Html.DisplayFor(model => model.Alimentos)</dd>  
+
+        <dt>@Html.DisplayNameFor(model => model.Nutrientes)</dt>
+        <dd>@Html.DisplayFor(model => model.Nutrientes)</dd>  
+    </dt>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.IdDieta})
+    @Html.ActionLink("Retornar", "Index")
+</p>    
