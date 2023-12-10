@@ -1,0 +1,22 @@
+@model ApiRotinaMvc.Models.TreinoViewModel
+@{
+    ViewBag.Title = "Detalhes do Treino";
+}
+<h2>Detalhes do Treino</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>@Html.DisplayNameFor(model => model.IdTreino)</dt>
+        <dd>@Html.DisplayFor(model => model.IdTreino)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Exercicios)</dt>
+        <dd>@Html.DisplayFor(model => model.Exercicios)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.TreinoClass)</dt>
+        <dd>@Html.DisplayFor(model => model.TreinoClass)</dd>  
+    </dt>
+</div>
+<p>
+    @Html.ActionLink("Editar", "EditarTreino", new { id = Model.IdTreino})
+    @Html.ActionLink("Retornar", "Index")
+</p>    

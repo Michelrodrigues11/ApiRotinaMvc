@@ -1,0 +1,41 @@
+@model ApiRotinaMvc.Models.TreinoViewModel
+@{
+ViewBag.Title = "Editar Treino";
+}
+<h2>Editar dados do Treino</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdTreino, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-6">
+            @Html.EditorFor(model => model.IdTreino, new { htmlAttributes = new { @class = "formcontrol",
+            @readonly = "readonly" } })
+        </div>
+    </div>
+    <div class="form-group">
+            <label class="control-label col-md-2">Exercicios:</label>
+            <div class="col-md-6">
+                 @Html.EditorFor(model => model.Exercicios, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-md-2">Classe Treino:</label>
+            <div class="col-md-6">
+                 @Html.DropDownListFor(model => model.TreinoClass, Html.GetEnumSelectList(typeof(ApiRotinaMvc.Models.Enuns.TreinoEnum)),
+                    "---Selecione---", new { @class = "form-control" })
+            </div>
+        </div>
+        <br>
+        <div class="form-group">
+        <div class="col-md-offset-2 col-md-6">
+                <input type="submit" value="Salvar alterações" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Retornar", "Index")
+</div>
