@@ -22,17 +22,16 @@
     @Html.ActionLink("Criar Nova Dieta", "Cadastrar")
 </p>
 <table class="table">
-  <tr>
-    <!--Títulos das colunas da tabela-->
-    <th>@Html.DisplayNameFor(model => model.IdDieta)</th>
-    <th>@Html.DisplayNameFor(model => model.Dia)</th>
-    <th>@Html.DisplayNameFor(model => model.DietaClass)</th>
-    <th>@Html.DisplayNameFor(model => model.Alimentos)</th>
-    <th>@Html.DisplayNameFor(model => model.Refeicoes)</th>
-    <th>@Html.DisplayNameFor(model => model.Nutrientes)</th>
-    <th></th>
-  </tr>
-  <!--Looping para escrever os dados na tabela-->
+    <tr>
+      <!--Títulos das colunas da tabela-->
+      <th>@Html.DisplayNameFor(model => model.IdDieta)</th>
+      <th>@Html.DisplayNameFor(model => model.Dia)</th>
+      <th>@Html.DisplayNameFor(model => model.DietaClass)</th>
+      <th>@Html.DisplayNameFor(model => model.Alimentos)</th>
+      <th>@Html.DisplayNameFor(model => model.Refeicoes)</th>
+      <th>@Html.DisplayNameFor(model => model.Nutrientes)</th>
+    </tr>
+    <!--Looping para escrever os dados na tabela-->
     @foreach (var item in Model)
     {
       <tr>
@@ -44,9 +43,11 @@
         <td>@Html.DisplayFor(modelItem => item.Nutrientes)</td>
         <td>
           <!--Coluna para Links/botões-->
-      @Html.ActionLink("Editar", "Editar", new { id = item.IdDieta } ) |
-      @Html.ActionLink("Detalhes", "Detalhes", new { id = item.IdDieta })
+          @Html.ActionLink("Editar", "Editar", new { id = item.IdDieta } ) |
+          @Html.ActionLink("Detalhes", "Detalhes", new { id = item.IdDieta }) |
+            @Html.ActionLink("Deletar", "Delete", new { id = item.IdDieta }, new {onclick = "return confirm('Deseja realmente deletar esta Dieta ?');"}) 
        </td>
       </tr>
     }
+</table>
     

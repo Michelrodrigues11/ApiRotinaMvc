@@ -34,3 +34,8 @@ C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\obj\Debug\net7.0\re
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.pdb
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.genruntimeconfig.cache
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\obj\Debug\net7.0\ref\ApiRotinaMvc.dll
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\web.config
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\ApiRotinaMvc.deps.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\ApiRotinaMvc.runtimeconfig.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.json

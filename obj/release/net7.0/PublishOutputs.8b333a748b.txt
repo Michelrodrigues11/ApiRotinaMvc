@@ -1,0 +1,11 @@
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\ApiRotinaMvc.exe
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\appsettings.Development.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\appsettings.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\ApiRotinaMvc.dll
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\ApiRotinaMvc.deps.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\ApiRotinaMvc.runtimeconfig.json
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\ApiRotinaMvc.pdb
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\Newtonsoft.Json.dll
+C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\publish\Newtonsoft.Json.Bson.dll
