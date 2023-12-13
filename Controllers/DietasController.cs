@@ -15,12 +15,7 @@ namespace ApiRotinaMvc.Controllers
         public string uriBase = "http://MichelDSHR.somee.com/ApiRotina/Dietas/";
 
         [HttpGet]
-        public ActionResult IndexDietas()
-        {
-            return View("IndexDietas");
-        }
-        [HttpGet]
-        public async Task<ActionResult> IndexAsync()
+        public async Task<ActionResult> IndexDietas()
         {
             try
             {

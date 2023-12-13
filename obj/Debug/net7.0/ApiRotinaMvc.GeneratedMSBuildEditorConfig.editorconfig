@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiRotinaMvc
 build_property.RootNamespace = ApiRotinaMvc
-build_property.ProjectDir = C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\
+build_property.ProjectDir = E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc
+build_property.MSBuildProjectDirectory = E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Dietas/CadastrarDieta.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Dietas/CadastrarDieta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFzXENhZGFzdHJhckRpZXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Dietas/Detalhes.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Dietas/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFzXERldGFsaGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Dietas/Editar.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Dietas/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFzXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Dietas/IndexDietas.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Dietas/IndexDietas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFzXEluZGV4RGlldGFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Home/Index.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Home/Privacy.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Shared/Error.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Treinos/CadastrarTreino.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Treinos/CadastrarTreino.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlaW5vc1xDYWRhc3RyYXJUcmVpbm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Treinos/DetalhesTreino.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Treinos/DetalhesTreino.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlaW5vc1xEZXRhbGhlc1RyZWluby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Treinos/EditarTreino.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Treinos/EditarTreino.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlaW5vc1xFZGl0YXJUcmVpbm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/_ViewImports.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/_ViewStart.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC do M & R/OneDrive/Área de Trabalho/ApiRotinaMvc/Views/Shared/_Layout.cshtml]
+[E:/2 Módulo/2DS_Michel/DS/ApiRotinaMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m1iyl55cz5

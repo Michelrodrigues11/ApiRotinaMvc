@@ -39,3 +39,44 @@ C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\pu
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\ApiRotinaMvc.runtimeconfig.json
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.Development.json
 C:\Users\PC do M & R\OneDrive\Área de Trabalho\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\publish\web.config
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\appsettings.Development.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\appsettings.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\publish\ApiRotinaMvc.deps.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\publish\ApiRotinaMvc.runtimeconfig.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.Development.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\publish\appsettings.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.staticwebassets.runtime.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.exe
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.deps.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.runtimeconfig.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\ApiRotinaMvc.pdb
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.csproj.AssemblyReference.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.AssemblyInfoInputs.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.AssemblyInfo.cs
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.csproj.CoreCompileInputs.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.MvcApplicationPartsAssemblyInfo.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.RazorAssemblyInfo.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.RazorAssemblyInfo.cs
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets\msbuild.ApiRotinaMvc.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiRotinaMvc.props
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiRotinaMvc.props
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiRotinaMvc.props
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets.pack.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets.build.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\staticwebassets.development.json
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\scopedcss\bundle\ApiRotinaMvc.styles.css
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\scopedcss\projectbundle\ApiRotinaMvc.bundle.scp.css
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.csproj.CopyComplete
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\refint\ApiRotinaMvc.dll
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.pdb
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ApiRotinaMvc.genruntimeconfig.cache
+E:\2 Módulo\2DS_Michel\DS\ApiRotinaMvc\obj\Debug\net7.0\ref\ApiRotinaMvc.dll

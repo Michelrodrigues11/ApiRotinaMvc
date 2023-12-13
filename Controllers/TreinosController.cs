@@ -14,14 +14,9 @@ namespace ApiRotinaMvc.Controllers
     {
         public string uriBase = "http://MichelDSHR.somee.com/ApiRotina/Treinos/";
 
-        [HttpGet]
-        public ActionResult IndexTreino()
-        {
-            return View("IndexTreinos");
-        }
 
         [HttpGet]
-        public async Task<ActionResult> IndexAsync()
+        public async Task<ActionResult> IndexTreinos()
         {
             try
             {
@@ -47,7 +42,7 @@ namespace ApiRotinaMvc.Controllers
             {
 
                 TempData["MensagemErro"] = ex.Message;
-                return RedirectToAction("IndexTreinos");
+                return RedirectToAction("Index", "Home");
             }
         }
         [HttpPost]

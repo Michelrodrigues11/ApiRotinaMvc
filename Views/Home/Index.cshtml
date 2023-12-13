@@ -2,6 +2,18 @@
     ViewData["Title"] = "inicio";
 }
 
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+
 <div class="text-center">
     <h1 class="display-4">RotinaHub</h1>
    
